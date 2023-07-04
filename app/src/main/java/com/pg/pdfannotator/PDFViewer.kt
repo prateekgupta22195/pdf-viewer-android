@@ -63,6 +63,7 @@ fun PDFViewer(file: String) {
                     offset += pan
 
                 }
+
             },
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
